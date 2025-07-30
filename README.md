@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![zootopia.](https://media1.tenor.com/m/f9IjHJ9vfr8AAAAC/nick-wilde.gif "raposa com picole")
+
 <!--
 **AmandaAlves2/AmandaAlves2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
